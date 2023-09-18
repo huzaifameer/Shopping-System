@@ -1,6 +1,6 @@
 import bigShoe1 from './yellow-dress.png'
-import bigShoe2 from './big-shoe2.png'
-import bigShoe3 from './big-shoe3.png'
+import bigShoe2 from './orange-dress.png'
+import bigShoe3 from './blue-dress.png'
 
 import customer1 from './customer1.jpeg'
 import customer2 from './customer2.svg'
@@ -18,8 +18,8 @@ import shoe8 from './shoe8.svg'
 
 import thumbnailBackground from './thumbnail-background.svg'
 import thumbnailShoe1 from './yellow-dress.png'
-import thumbnailShoe2 from './thumbnail-shoe2.svg'
-import thumbnailShoe3 from './thumbnail-shoe3.svg'
+import thumbnailShoe2 from './orange-dress.png'
+import thumbnailShoe3 from './blue-dress.png'
 
 export {
     bigShoe1,

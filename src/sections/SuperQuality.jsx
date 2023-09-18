@@ -9,14 +9,14 @@ const SuperQuality = () => {
     >
       <div className='flex flex-1 flex-col'>
         <h2 className='font-palanquin capitalize text-4xl lg:max-w-lg font-bold'>
-          We Provide You
-          <span className='text-coral-red'> Super </span>
-          <span className='text-coral-red'>Quality </span> Shoes
+          We Offer You The
+          <span className='text-blue-950'> Highest </span>
+          <span className='text-blue-950'>Quality </span> Clothing
         </h2>
         <p className='mt-4 lg:max-w-lg info-text'>
-          Ensuring premium comfort and style, our meticulously crafted footwear
-          is designed to elevate your experience, providing you with unmatched
-          quality, innovation, and a touch of elegance.
+        At our boutique, excellence is not just a promise; it's a commitment. 
+        We meticulously craft each garment to ensure you experience the highest quality, 
+        making your style as exceptional as you are.
         </p>
         <p className='mt-6 lg:max-w-lg info-text'>
           Our dedication to detail and excellence ensures your satisfaction
